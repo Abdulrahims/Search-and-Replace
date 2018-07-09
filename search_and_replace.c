@@ -1,7 +1,7 @@
 /*
 
-Author: Abdul Rahim (abdulthejedi@gmail.com)
-		Omar Abdeen (omarabdeen@gwu.edu)
+Author: Abdul Rahim 
+		Omar Abdeen
 
 search_and_replace.c : overall goal of the program was to build a robust program that can 
 				read a text file, search for a user queried word within that text file,
